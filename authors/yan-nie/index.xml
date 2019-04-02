@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yan Nie on HTMRI</title>
+    <link>http://htmri.github.io/authors/yan-nie/</link>
+    <description>Recent content in Yan Nie on HTMRI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="http://htmri.github.io/authors/yan-nie/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Corrosion behaviour of CoCrMo alloy fabricated by electron beam melting</title>
+      <link>http://htmri.github.io/publication/gong-corrosion-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>http://htmri.github.io/publication/gong-corrosion-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

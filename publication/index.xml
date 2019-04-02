@@ -6,9 +6,55 @@
     <description>Recent content in Publications on HTMRI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="http://htmri.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Coarsening behavior of γ′ precipitates of single crystal Ni-based superalloys during long-term exposure</title>
+      <link>http://htmri.github.io/publication/pan-coarsening-2019/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0800</pubDate>
+      
+      <guid>http://htmri.github.io/publication/pan-coarsening-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of Mo:W ratio on segregation behavior and creep strength of nickel-based single crystal superalloys</title>
+      <link>http://htmri.github.io/publication/zhang-effect-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>http://htmri.github.io/publication/zhang-effect-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causes analysis on cracks in nickel-based single crystal superalloy fabricated by laser powder deposition additive manufacturing</title>
+      <link>http://htmri.github.io/publication/zhou-causes-2018/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0800</pubDate>
+      
+      <guid>http://htmri.github.io/publication/zhou-causes-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-throughput characterization phase transformation temperature based on end-quenching methodology</title>
+      <link>http://htmri.github.io/publication/luo-high-throughput-2018/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0800</pubDate>
+      
+      <guid>http://htmri.github.io/publication/luo-high-throughput-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corrosion behaviour of CoCrMo alloy fabricated by electron beam melting</title>
+      <link>http://htmri.github.io/publication/gong-corrosion-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>http://htmri.github.io/publication/gong-corrosion-2018/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
