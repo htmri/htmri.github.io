@@ -8,11 +8,6 @@
   
     <url>
     
-      <loc>http://htmri.github.io/home/</loc>
-    </url>
-  
-    <url>
-    
       <loc>http://htmri.github.io/author/</loc>
       <priority>0</priority>
     </url>
