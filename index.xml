@@ -72,5 +72,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title></title>
+      <link>http://htmri.github.io/resources/facilities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://htmri.github.io/resources/facilities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://htmri.github.io/resources/sponsors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://htmri.github.io/resources/sponsors/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
