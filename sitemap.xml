@@ -9,6 +9,11 @@
   
     <url>
     
+      <loc>http://htmri.github.io/people/hzw/</loc>
+    </url>
+  
+    <url>
+    
       <loc>http://htmri.github.io/research/</loc>
     </url>
   
@@ -145,6 +150,12 @@
     
       <loc>http://htmri.github.io/authors/longfei-zhang/</loc>
       <lastmod>2019-04-01T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/people/</loc>
       <priority>0</priority>
     </url>
   
