@@ -6,55 +6,9 @@
     <description>Recent content in Tags on HTMRI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="http://htmri.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Additive manufacturing</title>
-      <link>http://htmri.github.io/tags/additive-manufacturing/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0800</pubDate>
-      
-      <guid>http://htmri.github.io/tags/additive-manufacturing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Crack</title>
-      <link>http://htmri.github.io/tags/crack/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0800</pubDate>
-      
-      <guid>http://htmri.github.io/tags/crack/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Laser powder deposition</title>
-      <link>http://htmri.github.io/tags/laser-powder-deposition/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0800</pubDate>
-      
-      <guid>http://htmri.github.io/tags/laser-powder-deposition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Single crystal</title>
-      <link>http://htmri.github.io/tags/single-crystal/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0800</pubDate>
-      
-      <guid>http://htmri.github.io/tags/single-crystal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Superalloy</title>
-      <link>http://htmri.github.io/tags/superalloy/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0800</pubDate>
-      
-      <guid>http://htmri.github.io/tags/superalloy/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

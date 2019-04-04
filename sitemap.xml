@@ -8,7 +8,7 @@
   
     <url>
     
-      <loc>http://htmri.github.io/people/about/</loc>
+      <loc>http://htmri.github.io/people/hzw/about/</loc>
     </url>
   
     <url>
@@ -91,13 +91,6 @@
   
     <url>
     
-      <loc>http://htmri.github.io/tags/additive-manufacturing/</loc>
-      <lastmod>2018-12-01T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
       <loc>http://htmri.github.io/author/</loc>
       <priority>0</priority>
     </url>
@@ -118,13 +111,6 @@
     
       <loc>http://htmri.github.io/authors/chain-tsuan-liu/</loc>
       <lastmod>2019-01-01T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>http://htmri.github.io/tags/crack/</loc>
-      <lastmod>2018-12-01T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -159,13 +145,6 @@
     <url>
     
       <loc>http://htmri.github.io/authors/lan-huang/</loc>
-      <lastmod>2018-12-01T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>http://htmri.github.io/tags/laser-powder-deposition/</loc>
       <lastmod>2018-12-01T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -219,22 +198,7 @@
   
     <url>
     
-      <loc>http://htmri.github.io/tags/single-crystal/</loc>
-      <lastmod>2018-12-01T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>http://htmri.github.io/tags/superalloy/</loc>
-      <lastmod>2018-12-01T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
       <loc>http://htmri.github.io/tags/</loc>
-      <lastmod>2018-12-01T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
   
