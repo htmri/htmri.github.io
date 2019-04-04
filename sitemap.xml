@@ -3,11 +3,6 @@
   
     <url>
     
-      <loc>http://htmri.github.io/people/</loc>
-    </url>
-  
-    <url>
-    
       <loc>http://htmri.github.io/publication/</loc>
       <lastmod>2019-04-01T00:00:00+08:00</lastmod>
     </url>
@@ -55,11 +50,6 @@
     
       <loc>http://htmri.github.io/publication/gong-corrosion-2018/</loc>
       <lastmod>2018-07-01T00:00:00+08:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>http://htmri.github.io/author/admin/</loc>
     </url>
   
     <url>
@@ -262,7 +252,7 @@
   
     <url>
     
-      <loc>http://htmri.github.io/authors/admin/</loc>
+      <loc>http://htmri.github.io/authors/hzw/</loc>
       <priority>0</priority>
     </url>
   
