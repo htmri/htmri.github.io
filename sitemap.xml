@@ -3,17 +3,6 @@
   
     <url>
     
-      <loc>http://htmri.github.io/publication/</loc>
-      <lastmod>2019-04-01T00:00:00+08:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>http://htmri.github.io/research/</loc>
-    </url>
-  
-    <url>
-    
       <loc>http://htmri.github.io/contact/</loc>
     </url>
   
@@ -31,6 +20,12 @@
     <url>
     
       <loc>http://htmri.github.io/publication/zhang-effect-2019/</loc>
+      <lastmod>2019-01-01T00:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/publication/yu-microstructures-2019/</loc>
       <lastmod>2019-01-01T00:00:00+08:00</lastmod>
     </url>
   
@@ -54,7 +49,133 @@
   
     <url>
     
-      <loc>http://htmri.github.io/author/hzw/</loc>
+      <loc>http://htmri.github.io/research/icme/</loc>
+      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/research/nickel-based-superalloy/</loc>
+      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/news/news1/</loc>
+      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/news/news2/</loc>
+      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/</loc>
+      <lastmod>2019-04-01T00:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/author/admin1/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/author/admin2/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/author/collaborator1/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/author/collaborator2/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/author/collaborator3/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/author/collaborator4/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/author/collaborator5/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/author/collaborator6/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/author/collaborator7/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/author/feng-liu/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/author/lan-huang/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/author/longfei-zhang/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/author/qian-lei/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/author/yunping-li/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/author/zaiwang-huang/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/people/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/people/alumni/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/people/collaborators/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/people/graduate-students/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/publication/</loc>
+      <lastmod>2019-04-01T00:00:00+08:00</lastmod>
     </url>
   
     <url>
@@ -76,6 +197,13 @@
   
     <url>
     
+      <loc>http://htmri.github.io/tags/additive-manufacturing/</loc>
+      <lastmod>2018-12-01T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>http://htmri.github.io/author/</loc>
       <priority>0</priority>
     </url>
@@ -83,6 +211,13 @@
     <url>
     
       <loc>http://htmri.github.io/authors/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/authors/bohua-yu/</loc>
+      <lastmod>2019-01-01T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -101,15 +236,15 @@
   
     <url>
     
-      <loc>http://htmri.github.io/authors/feng-liu/</loc>
-      <lastmod>2018-07-01T00:00:00+08:00</lastmod>
+      <loc>http://htmri.github.io/tags/crack/</loc>
+      <lastmod>2018-12-01T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>http://htmri.github.io/</loc>
-      <lastmod>2019-04-01T00:00:00+08:00</lastmod>
+      <loc>http://htmri.github.io/authors/feng-liu/</loc>
+      <lastmod>2018-07-01T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -136,6 +271,13 @@
   
     <url>
     
+      <loc>http://htmri.github.io/tags/laser-powder-deposition/</loc>
+      <lastmod>2018-12-01T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>http://htmri.github.io/authors/liang-jiang/</loc>
       <lastmod>2019-04-01T00:00:00+08:00</lastmod>
       <priority>0</priority>
@@ -145,6 +287,13 @@
     
       <loc>http://htmri.github.io/authors/longfei-zhang/</loc>
       <lastmod>2019-04-01T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/news/</loc>
+      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -165,7 +314,14 @@
     <url>
     
       <loc>http://htmri.github.io/authors/qian-lei/</loc>
-      <lastmod>2018-12-01T00:00:00+08:00</lastmod>
+      <lastmod>2019-01-01T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/research/</loc>
+      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -183,7 +339,22 @@
   
     <url>
     
+      <loc>http://htmri.github.io/tags/single-crystal/</loc>
+      <lastmod>2018-12-01T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/tags/superalloy/</loc>
+      <lastmod>2018-12-01T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>http://htmri.github.io/tags/</loc>
+      <lastmod>2018-12-01T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -197,7 +368,7 @@
     <url>
     
       <loc>http://htmri.github.io/authors/yan-nie/</loc>
-      <lastmod>2018-07-01T00:00:00+08:00</lastmod>
+      <lastmod>2019-01-01T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -218,7 +389,7 @@
     <url>
     
       <loc>http://htmri.github.io/authors/yunping-li/</loc>
-      <lastmod>2018-12-01T00:00:00+08:00</lastmod>
+      <lastmod>2019-01-01T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -252,7 +423,91 @@
   
     <url>
     
-      <loc>http://htmri.github.io/authors/hzw/</loc>
+      <loc>http://htmri.github.io/authors/admin1/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/authors/admin2/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/authors/collaborator1/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/authors/collaborator2/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/authors/collaborator3/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/authors/collaborator4/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/authors/collaborator5/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/authors/collaborator6/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/authors/collaborator7/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/authors/feng-liu/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/authors/lan-huang/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/authors/longfei-zhang/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/authors/qian-lei/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/authors/yunping-li/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>http://htmri.github.io/authors/zaiwang-huang/</loc>
       <priority>0</priority>
     </url>
   

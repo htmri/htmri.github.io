@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on HTMRI</title>
+    <title>HTMRI</title>
     <link>http://htmri.github.io/publication/</link>
-    <description>Recent content in Publications on HTMRI</description>
+    <description>Recent content on HTMRI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0800</lastBuildDate>
@@ -26,6 +26,15 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
       
       <guid>http://htmri.github.io/publication/zhang-effect-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microstructures and mechanical properties of WC-Co-xCr-Mo cement carbides</title>
+      <link>http://htmri.github.io/publication/yu-microstructures-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>http://htmri.github.io/publication/yu-microstructures-2019/</guid>
       <description></description>
     </item>
     
