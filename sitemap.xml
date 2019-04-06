@@ -89,41 +89,6 @@
   
     <url>
     
-      <loc>http://htmri.github.io/author/collaborator1/</loc>
-    </url>
-  
-    <url>
-    
-      <loc>http://htmri.github.io/author/collaborator2/</loc>
-    </url>
-  
-    <url>
-    
-      <loc>http://htmri.github.io/author/collaborator3/</loc>
-    </url>
-  
-    <url>
-    
-      <loc>http://htmri.github.io/author/collaborator4/</loc>
-    </url>
-  
-    <url>
-    
-      <loc>http://htmri.github.io/author/collaborator5/</loc>
-    </url>
-  
-    <url>
-    
-      <loc>http://htmri.github.io/author/collaborator6/</loc>
-    </url>
-  
-    <url>
-    
-      <loc>http://htmri.github.io/author/collaborator7/</loc>
-    </url>
-  
-    <url>
-    
       <loc>http://htmri.github.io/author/feng-liu/</loc>
     </url>
   
@@ -430,48 +395,6 @@
     <url>
     
       <loc>http://htmri.github.io/authors/admin2/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>http://htmri.github.io/authors/collaborator1/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>http://htmri.github.io/authors/collaborator2/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>http://htmri.github.io/authors/collaborator3/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>http://htmri.github.io/authors/collaborator4/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>http://htmri.github.io/authors/collaborator5/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>http://htmri.github.io/authors/collaborator6/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>http://htmri.github.io/authors/collaborator7/</loc>
       <priority>0</priority>
     </url>
   
