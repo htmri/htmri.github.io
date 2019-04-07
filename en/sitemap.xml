@@ -149,11 +149,6 @@
   
     <url>
     
-      <loc>http://htmri.github.io/zh/publication/</loc>
-    </url>
-  
-    <url>
-    
       <loc>http://htmri.github.io/publication_types/2/</loc>
       <lastmod>2019-04-01T00:00:00+08:00</lastmod>
       <priority>0</priority>
@@ -397,12 +392,6 @@
     
       <loc>http://htmri.github.io/authors/zhipeng-zhou/</loc>
       <lastmod>2018-12-01T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>http://htmri.github.io/zh/</loc>
       <priority>0</priority>
     </url>
   
